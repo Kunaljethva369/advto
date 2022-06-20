@@ -1,0 +1,19 @@
+form{
+    background: #dcf5f0;
+    padding: 0.5rem;
+    max-width: max-content;
+}
+button{
+    margin-bottom: 2rem;
+    cursor: pointer;
+}
+.cross{
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom: 1rem;
+    cursor: pointer;
+}
+.btn{
+    display: block;
+    justify-content: center;
+}
